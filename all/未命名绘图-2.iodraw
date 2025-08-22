@@ -16,6 +16,12 @@
         <mxCell id="tYEXNb0XRJQe1Z58YGW2-1" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="329" y="250" width="170" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="tYEXNb0XRJQe1Z58YGW2-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="450" as="sourcePoint" />
+            <mxPoint x="490" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
