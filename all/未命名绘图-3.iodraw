@@ -31,7 +31,7 @@
             <mxPoint x="560" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJnVyU5Ef7OjyxS9l5xJ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="zJnVyU5Ef7OjyxS9l5xJ-9" value="机械臂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="500" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
