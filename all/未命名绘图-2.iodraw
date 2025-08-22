@@ -36,8 +36,8 @@
         <mxCell id="tYEXNb0XRJQe1Z58YGW2-15" value="视觉模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tYEXNb0XRJQe1Z58YGW2-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="530" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="tYEXNb0XRJQe1Z58YGW2-16" value="机械臂" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="540" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
