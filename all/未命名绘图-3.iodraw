@@ -46,7 +46,7 @@
             <mxPoint x="520" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJnVyU5Ef7OjyxS9l5xJ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="zJnVyU5Ef7OjyxS9l5xJ-12" value="动作模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="420" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
