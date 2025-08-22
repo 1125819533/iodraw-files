@@ -39,8 +39,13 @@
         <mxCell id="tYEXNb0XRJQe1Z58YGW2-16" value="机械臂" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="540" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tYEXNb0XRJQe1Z58YGW2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tYEXNb0XRJQe1Z58YGW2-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tYEXNb0XRJQe1Z58YGW2-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="490" y="480" width="50" height="170" as="geometry" />
+          <mxGeometry x="466.25" y="493.75" width="87.5" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
