@@ -46,8 +46,11 @@
             <mxPoint x="430" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trUZXtGxWL88qQfeRytA-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="trUZXtGxWL88qQfeRytA-27" value="视觉传感器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="190" y="625" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="trUZXtGxWL88qQfeRytA-28" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="830" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
