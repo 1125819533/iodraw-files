@@ -28,8 +28,11 @@
             <mxPoint x="440" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trUZXtGxWL88qQfeRytA-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="640" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="trUZXtGxWL88qQfeRytA-21" value="机械臂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="640" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="trUZXtGxWL88qQfeRytA-22" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="830" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
